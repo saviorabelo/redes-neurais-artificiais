@@ -1,2 +1,3 @@
-# redes-neurais-artificiais
+# Redes Neurais Artificiais
+
 Implementação das principais Redes Neurais Artificiais (RNA).
